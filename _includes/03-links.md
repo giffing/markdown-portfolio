@@ -1,1 +1,1 @@
-[GitHub Profile] (https://github.com/giffing)
+[GitHub] (https://github.com)
